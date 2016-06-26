@@ -1,7 +1,7 @@
 Webpack examples
 ================
 
-1. [Entry File](https://github.com/ymedlop-sandbox/webpack/basic)
+1. [Entry File](https://github.com/ymedlop-sandbox/webpack/tree/master/basic)
 
 
 Development Machine Requirements
